@@ -21,7 +21,7 @@ nltk==3.4.5
 oauth==1.0.1
 olefile==0.45.1
 pexpect==4.2.1
-Pillow==7.0.0
+Pillow==8.3.2
 psycopg2-binary==2.8.5
 ptyprocess==0.6.0
 pycparser==2.20
